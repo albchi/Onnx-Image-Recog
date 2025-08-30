@@ -1,0 +1,7 @@
+python 0trainonnx.py
+
+dir cifar10_cnn_model.onnx
+
+dir airplane.png
+
+python 1inferonnx.py
